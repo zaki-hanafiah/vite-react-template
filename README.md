@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React 19 working in Vite 6 with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
@@ -35,7 +35,7 @@ import react from 'eslint-plugin-react'
 
 export default tseslint.config({
   // Set the react version
-  settings: { react: { version: '18.3' } },
+  settings: { react: { version: '19.1' } },
   plugins: {
     // Add the react plugin
     react,
