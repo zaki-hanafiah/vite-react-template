@@ -19,3 +19,4 @@ export default defineConfig({
         setupFiles: './tests/setup.js',
     },
 })
+// __activity_fill_marker__ 2025-12-01 7
